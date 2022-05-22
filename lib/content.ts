@@ -220,7 +220,7 @@ export const workInfo = [
     title: 'IBM Thailand',
     url: '',
     img: 'assets/work/ibm.jpg',
-    imgDark: '',
+    imgDark: 'assets/work/ibm.jpg',
     duration: '13 Jun 2022 -30 Sep 2022',
     role: 'Application development Intern',
     about: [
@@ -231,7 +231,7 @@ export const workInfo = [
     title: 'Computer Science Information Technology Naresuan University',
     url: 'https://csit.nu.ac.th/',
     img: 'assets/work/csit.jpg',
-    imgDark: '',
+    imgDark: 'assets/work/csit.jpg',
     duration: '',
     role: 'Teacher assistant',
     about: [
