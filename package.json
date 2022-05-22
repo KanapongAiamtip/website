@@ -1,0 +1,33 @@
+{
+  "name": "website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "bs": "next build && next export"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.12.4",
+    "@types/react": "^17.0.11",
+    "@types/react-dom": "^17.0.8",
+    "autoprefixer": "^10.2.6",
+    "framer-motion": "^2.9.5",
+    "next": "12",
+    "postcss": "^8.4.5",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "typescript": "^4.3.4"
+  },
+  "devDependencies": {
+    "@cloudflare/wrangler": "^1.13.0",
+    "@fullhuman/postcss-purgecss": "^3.0.0",
+    "eslint": "8.7.0",
+    "eslint-config-next": "12.0.8",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^3.0.15"
+  }
+}
