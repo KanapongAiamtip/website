@@ -39,3 +39,7 @@ Run yarn dev
 
 The website will pop up at `http://localhost:3000`
 
+# Deployment Status Badge 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/788f578a-02ce-4116-8439-cbba2c1ea463/deploy-status)](https://app.netlify.com/sites/knpsoda/deploys)
+
