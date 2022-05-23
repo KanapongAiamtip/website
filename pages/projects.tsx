@@ -8,7 +8,7 @@ import { projectsInfo } from '../lib/content';
 const projects = () => {
   return (
     <div className="dark:bg-black">
-      <Header title="Projects" />
+      <Header title="Projects | Sea Tawinan" />
       <Nav name="projects" />
       <div className="w-10/12 md:w-9/12 lg:w-8/12 pt-20 md:pt-28 mx-auto flex flex-col dark:text-white">
         <h2 className="text-3xl md:text-5xl font-bold my-2">My Projects</h2>

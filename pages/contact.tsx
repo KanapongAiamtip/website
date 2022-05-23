@@ -9,7 +9,7 @@ import { motion } from 'framer-motion';
 const Contact = () => {
   return (
     <div className="dark:bg-black">
-      <Header title="Get in touch" />
+      <Header title="Get in touch | Sea Tawinan" />
       <Nav name="contact" />
       <div className="flex flex-col min-h-screen">
         <h2 className="w-10/12 md:w-9/12 lg:w-8/12 mx-auto text-3xl md:text-5xl font-bold pt-36 dark:text-white">
