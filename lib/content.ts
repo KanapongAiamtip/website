@@ -191,7 +191,7 @@ export const myteamInfo = [
     website: '',
     github: 'https://github.com/Charb60',
     fb: 'https://www.facebook.com/people/NAnThaPHoNG-CHaRB/100007519922803/',
-    ig:'https://www.instagram.com/brach_ann/',
+    ig:'https://www.instagram.com/brachnull/',
   },
   {
     name: 'Khomsan Chooon',
@@ -201,7 +201,7 @@ export const myteamInfo = [
     website: '',
     github: 'https://github.com/MarkKh',
     fb: 'https://www.facebook.com/mmark.khomsan',
-    ig:'https://www.instagram.com/m.mksch/',
+    ig:'https://www.instagram.com/mmarkkh/',
   },
   {
     name: 'Natchanon Pongrattananukul',
@@ -235,10 +235,10 @@ export const workInfo = [
     duration: '',
     role: 'Teacher assistant',
     about: [
-      'Teacher assistant Teaching programming Object Orientd Programming 2/2021',
+      'Teacher assistant Teaching programming Object Oriented Programming 2/2021',
       'Teacher assistant Teaching programming Python programming 1/2021',
       'Teacher assistant Teaching programming Fundamental of programming 1/2021',
-      'Teacher assistant Teaching programming Object Orientd Programming 2/2020',
+      'Teacher assistant Teaching programming Object Oriented Programming 2/2020',
       'Create website Codee.Club',
     ],
   },
