@@ -27,7 +27,7 @@ export const nav = {
 export const landing = {
   img: {
     url: 'https://avatars.githubusercontent.com/u/75485361?v=4',
-    alt: 'Siddhartha Varma',
+    alt: 'Sea Tawinan',
   },
   text: ['Hi !', "I'm", 'Kannapong Aiamtip.', "I'm a"],
   btnText: 'Get in Touch',
