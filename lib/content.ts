@@ -235,6 +235,8 @@ export const workInfo = [
     duration: '',
     role: 'Teacher assistant',
     about: [
+      'Teacher assistant Teaching Introduction to Computer Information Science 2/2022',
+      'Teacher assistant Teaching programming Object Oriented Programming 2/2022',
       'Teacher assistant Teaching programming Object Oriented Programming 2/2021',
       'Teacher assistant Teaching programming Python programming 1/2021',
       'Teacher assistant Teaching programming Fundamental of programming 1/2021',
