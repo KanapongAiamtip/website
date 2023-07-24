@@ -8,7 +8,7 @@ import TeamCard from '../components/TeamCard';
 const Team = () => {
   return (
     <div className="dark:bg-black">
-      <Header title=" My Team | Sea Tawinan" />
+      <Header title=" My Team | Gemini_nt" />
       <Nav name="myteam" />
       <div className="w-10/12 md:w-9/12 lg:w-8/12 pt-20 md:pt-28 mx-auto flex flex-col dark:text-white">
         <h2 className="text-3xl md:text-5xl font-bold my-2">My Team</h2>
