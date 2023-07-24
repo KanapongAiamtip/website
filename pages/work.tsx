@@ -8,7 +8,7 @@ import WorkCard from '../components/WorkCard';
 const work = () => {
   return (
     <div className="dark:bg-black dark:text-white">
-      <Header title="Work Experience | Sea Tawinan" />
+      <Header title="Work Experience | Gemini_nt" />
       <Nav name="work" />
       <div className="min-h-screen w-10/12 md:w-9/12 lg:w-8/12 pt-20 mx-auto flex flex-col">
         <h2 className="text-3xl md:text-5xl font-bold md:mt-10">
