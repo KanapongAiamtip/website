@@ -9,7 +9,7 @@ import TechStack from '../components/TechStack';
 export default function Home() {
   return (
     <div className="dark:bg-black dark:text-white antialiased">
-      <Header title="Home | Sea Tawinan" />
+      <Header title="Home | Gemini_nt" />
       <Nav name="home" />
       <Landing />
       <div className="dark:bg-black" style={{ height: '10vh' }}></div>
