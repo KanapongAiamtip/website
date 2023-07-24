@@ -1,5 +1,5 @@
 export const nav = {
-  logo: 'Sea_Tawinan',
+  logo: 'Gemini_nt',
   links: [
     {
       text: 'PROJECT',
@@ -20,6 +20,10 @@ export const nav = {
     {
       text: 'Codee Club',
       to:"https://codee.club",
+    },
+    {
+        text: 'RESUME',
+        to: '/assets/resume.pdf',
     }
   ],
 };
@@ -27,7 +31,7 @@ export const nav = {
 export const landing = {
   img: {
     url: 'https://avatars.githubusercontent.com/u/75485361?v=4',
-    alt: 'Sea Tawinan',
+    alt: 'gemini_nt',
   },
   text: ['Hi !', "I'm", 'Kannapong Aiamtip.', "I'm a"],
   btnText: 'Get in Touch',
@@ -102,6 +106,16 @@ export const contactInfo = {
       name: 'GitHub',
     },
     {
+      img: '/assets/contact/line.svg',
+      link: 'https://line.me/ti/p/ywk2nVU2ls',
+      name: 'Line',
+    },
+    {
+      img: '/assets/contact/fb.svg',
+      link: 'https://www.facebook.com/profile.php?id=100006123256688',
+      name: 'Facebook',
+    },
+    {
       img: '/assets/contact/Instagram.svg',
       link: 'https://www.instagram.com/_______knp___krit/',
       name: 'Instagram',
@@ -113,7 +127,7 @@ export const contactInfo = {
     },
     {
       img: '/assets/contact/LinkedIN.svg',
-      link: '',
+      link: 'https://www.linkedin.com/in/kannaphong-iamthip-4a8768226/',
       name: 'LinkedIN',
     },
   ],
@@ -149,6 +163,31 @@ export const projectsInfo = [
     github: 'https://github.com/KanapongAiamtip/tictactoe',
     link: 'https://github.com/KanapongAiamtip/tictactoe',
   },  
+  {
+    title: 'codee-club',
+    subtitle: 'a web based code problem grader for Java/Kotlin/Python/Swift written in typescript for CSIT Students Naresuan University',
+    img: 'assets/projects/codee.jpg',
+    redirect: '',
+    github: 'https://github.com/KanapongAiamtip/codee-club',
+    link: 'https://codee.club',
+  },  
+  {
+    title: 'rrcbwpa',
+    subtitle: 'RRCBWPA is an undergraduate thesis project for Helping user can use photos to process resistor color code values',
+    img: 'assets/projects/rrcbwpa.jpg',
+    redirect: '',
+    github: 'https://github.com/KanapongAiamtip/RRCBWPA.git',
+    link: '',
+  },  
+  {
+    title: 'ptms',
+    subtitle: 'a web based application that provides an online platform for a certain company employees to report/record their time allotted or time retendered per project. The system also helps the company to monitor their employees  rendered time and work done per project. This has a pleasant user interface and user-friendly functionalities.',
+    img: 'assets/projects/ptms.jpg',
+    redirect: '',
+    github: 'https://github.com/KanapongAiamtip/ptms.git',
+    link: '',
+  },  
+
 ];
 
 
