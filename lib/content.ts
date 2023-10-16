@@ -40,7 +40,7 @@ export const landing = {
 export const about = [
   "This website was created by Mr. Kannapong Aiamtip (Soda)🌟🌟",
   "",
-  "🔥 I am a developer with robust problem solving skills and proven experience in creating and designing website in a test drivenenvironment from Phitsanulok Thailand. 🔥",
+  "🔥 I am a developer with robust problem solving skills and proven experience in creating and designing website in a test driven environment from Phitsanulok Thailand. 🔥",
   "",
   "🌈 I enjoy developing simple and beautiful application to solve complex problems. When I am not coding, watching movies or reading books you are find me in starbucks coffee or enjoying sunshine in iconsiam.",
   "",
