@@ -291,10 +291,22 @@ export const workInfo = [
     url: "https://www.cdg.co.th/",
     img: "assets/work/cdg.jpg",
     imgDark: "assets/work/cdg.jpg",
-    duration: "2 Aug 2023 - now",
+    duration: "2 Aug 2023 - 10 Nov 2023",
     role: "Full Stack Developer",
     about: [
       "Currently working on the core services as a web application developer.",
     ],
   },
+  {
+    title: "Le Siam Internetwork",
+    url: "https://www.lsiam.com/",
+    img: "assets/work/lesiam.jpg",
+    imgDark: "assets/work/lesiam.jpg",
+    duration: "1 Dec 2023 - Now",
+    role: "Network operation center",
+    about: [
+      "Currently working on the core services as a network operation center",
+    ],
+  },
+
 ];
