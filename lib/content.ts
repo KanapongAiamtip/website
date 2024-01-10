@@ -300,8 +300,8 @@ export const workInfo = [
   {
     title: "Le Siam Internetwork",
     url: "https://www.lsiam.com/",
-    img: "assets/work/lesiam.jpg",
-    imgDark: "assets/work/lesiam.jpg",
+    img: "assets/work/lesiam.png",
+    imgDark: "assets/work/lesiam.png",
     duration: "1 Dec 2023 - Now",
     role: "Network operation center",
     about: [
