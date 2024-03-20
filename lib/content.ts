@@ -21,6 +21,7 @@ export const nav = {
       text: "Codee Club",
       to: "https://codee.club",
     },
+
     {
       text: "RESUME",
       to: "/assets/resume.pdf",
@@ -30,7 +31,8 @@ export const nav = {
 
 export const landing = {
   img: {
-    url: "https://avatars.githubusercontent.com/u/75485361?v=4",
+    url: "https://avatars.githubusercontent.com/u/75485361?v=4",//    img: "assets/card.jpg",
+
     alt: "gemini_nt",
   },
   text: ["Hi !", "I'm", "Kannapong Aiamtip.", "I'm a"],
@@ -255,6 +257,7 @@ export const myteamInfo = [
     fb: "https://www.facebook.com/natchanon.pongrattananukun",
     ig: "https://www.instagram.com/heart.yeager/",
   },
+
 ];
 
 export const workInfo = [
@@ -302,10 +305,21 @@ export const workInfo = [
     url: "https://www.lsiam.com/",
     img: "assets/work/lesiam.png",
     imgDark: "assets/work/lesiam.png",
-    duration: "1 Dec 2023 - Now",
+    duration: "1 Dec 2023 - 31 Jan 2024",
     role: "Network operation center",
     about: [
       "Currently working on the core services as a network operation center",
+    ],
+  },
+  {
+    title: "transcosmos (Thailand) Co Ltd.",
+    url: "https://www.trans-cosmos.co.th/",
+    img: "assets/work/transcosmos.png",
+    imgDark: "assets/work/transcosmos.png",
+    duration: "1 Mar 2024 - Now",
+    role: "IT Support",
+    about: [
+      "Responsible for managing fixing repairing and maintaining computer equipment as well as software and hardware of the organization to keep them in good condition. and ready to use at all times",
     ],
   },
 
