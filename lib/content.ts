@@ -316,7 +316,7 @@ export const workInfo = [
     url: "https://www.trans-cosmos.co.th/",
     img: "assets/work/transcosmos.png",
     imgDark: "assets/work/transcosmos.png",
-    duration: "1 Mar 2024 - Now",
+    duration: "1 Mar 2024 - 31 July 2024",
     role: "IT Support",
     about: [
       "Responsible for managing fixing repairing and maintaining computer equipment as well as software and hardware of the organization to keep them in good condition. and ready to use at all times",
